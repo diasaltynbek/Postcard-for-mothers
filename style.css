@@ -93,3 +93,13 @@ html, body {
     }
 }
 
+@media (max-width: 768px) {
+    body {
+        font-size: 10px;
+    }
+    .card {
+        width: 500px;
+        height: 800px;
+        margin: 150px 180px;
+    }
+}
